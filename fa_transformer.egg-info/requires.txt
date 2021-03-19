@@ -1,0 +1,4 @@
+numpy
+sklearn
+pandas
+factor_analyzer

@@ -1,0 +1,9 @@
+README.md
+setup.py
+fa_transformer/__init__.py
+fa_transformer/transformers.py
+fa_transformer.egg-info/PKG-INFO
+fa_transformer.egg-info/SOURCES.txt
+fa_transformer.egg-info/dependency_links.txt
+fa_transformer.egg-info/requires.txt
+fa_transformer.egg-info/top_level.txt
